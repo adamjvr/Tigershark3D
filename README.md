@@ -18,7 +18,7 @@ A TinyG Powered 3D printer controller, based on the RAMBo by Ultimachine and the
 - 6 MOSFETs driven with a gate driver off PWM for heat and fans
 - Offboard Expansion Port, generic GPIO expansion, and Kinen interface compatible (https://github.com/kinen/kinen/wiki)
 
-Revision 1 of prototype zero
+Revision 1 of prototype zero 9/7/14 - Rev1 Finished!
 ![Prototype Zero](PCB/Tigershark2D.png)
 A 3D rendering
 ![Prototype Zero](PCB/tigershark3d.png)
