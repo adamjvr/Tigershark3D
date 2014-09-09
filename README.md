@@ -28,7 +28,9 @@ A 3D rendering
 
 Based on the work of:
 https://github.com/arduino/Arduino
+
 https://github.com/ultimachine/RAMBo
+
 https://github.com/synthetos/g2
 
 Released as Open Source Hardware Under the CERN Liscense
