@@ -2,6 +2,8 @@ Tigershark3D
 ============
 
 A TinyG Powered 3D printer controller, based on the RAMBo by Ultimachine and the Arduino DUE
+More On TinyG Firmware Here:
+https://github.com/synthetos/g2
 
 - Atmel ATSAM3X8E ARM Cortex M3 (DUE)
 - Arduino DUE Compatible
