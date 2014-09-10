@@ -10,7 +10,7 @@ https://github.com/synthetos/g2
 - Arduino DUE Compatible
 - 5 Texas Instruments DRV8825 Stepper Drivers handle up to 2.5A per phase
 - 6 MOSFETs for Heat and fans
-- Allegro A3944 Low-Side Automotive MOSFET Driver
+- Ti TPIC46L01 Low-Side Automotive MOSFET Driver
 - 2 MAX31855EASA+ Thermocouple ADCs
 - Two Thermistors
 - 2A 3.3V Power for Logic
