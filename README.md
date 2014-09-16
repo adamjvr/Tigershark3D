@@ -4,7 +4,13 @@ Tigershark3D
 A TinyG Powered 3D printer controller for RepRap, based on the RAMBo by Ultimachine, the Arduino DUE, and the TinyG from Synthetos.com
 
 More On TinyG Firmware Here:
+
+AVR Version of TinyG
+
 https://github.com/synthetos/TinyG
+
+ARM Version of TinyG
+
 https://github.com/synthetos/g2
 
 - Powered by the TinyG CNC Firmware from Sythetos.com
