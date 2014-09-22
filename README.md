@@ -30,9 +30,14 @@ https://github.com/synthetos/g2
 - Offboard Expansion Port, generic GPIO expansion, and Kinen interface compatible (https://github.com/kinen/kinen/wiki)
 
 TinyG 2 ARM Firmware Repository:
+
 https://github.com/synthetos/g2
 
-Revision 1 of prototype zero 9/7/14 - Rev1 Finished!
+BOSSA Atmel SAM Firmware Flashing Tool:
+
+https://github.com/shumatech/BOSSA
+
+Prototype Zero (9/22/14 - Latest Iteration of Prototype Zero published)
 ![Prototype Zero](PCB/Tigershark2D.png)
 A 3D rendering
 ![Prototype Zero](PCB/tigershark3d.png)
