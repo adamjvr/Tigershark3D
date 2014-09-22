@@ -30,13 +30,9 @@ https://github.com/synthetos/g2
 - Offboard Expansion Port, generic GPIO expansion, and Kinen interface compatible (https://github.com/kinen/kinen/wiki)
 -  True Galvanic Isolation of the USB port and full USB 2.0 Speeds
 
-TinyG 2 ARM Firmware Repository:
+TinyG 2 ARM Firmware Repository: https://github.com/synthetos/g2
 
-https://github.com/synthetos/g2
-
-BOSSA Atmel SAM Firmware Flashing Tool:
-
-https://github.com/shumatech/BOSSA
+BOSSA Atmel SAM Firmware Flashing Tool: https://github.com/shumatech/BOSSA
 
 Prototype Zero (9/22/14 - Latest Iteration of Prototype Zero published)
 ![Prototype Zero](PCB/Tigershark2D.png)
