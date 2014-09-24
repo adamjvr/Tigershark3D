@@ -350,106 +350,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document21]
-DocumentPath=ProjectOutputs\GERBER Layers.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document22]
-DocumentPath=ProjectOutputs\NC Drill.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[GeneratedDocument1]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.5.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.5.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.5.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.5.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.5.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.5.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.5.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.5.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.5.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.5.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.5.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.5.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.5.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.5.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.5.REP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.5.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.5.TXT
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -459,6 +359,9 @@ CurrentRevision=
 Variant=[No Variations]
 GenerateBOM=1
 OutputJobsCount=0
+
+[Generic_EDE]
+OutputDir=ProjectOutputs
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
@@ -493,9 +396,6 @@ SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
-
-[Generic_EDE]
-OutputDir=ProjectOutputs
 
 [OutputGroup1]
 Name=Netlist Outputs
