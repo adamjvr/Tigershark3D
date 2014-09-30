@@ -350,78 +350,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[GeneratedDocument1]
-DocumentPath=ProjectOutputs\Design Rule Check - Tigershark 3D R1.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.6.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.6.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.6.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.6.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.6.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.6.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.6.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.6.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.6.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.6.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.6.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.6.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.6.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.6.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.6.REP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.6.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=ProjectOutputs\Tigershark 3D R1.6.TXT
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -431,6 +359,9 @@ CurrentRevision=
 Variant=[No Variations]
 GenerateBOM=1
 OutputJobsCount=0
+
+[Generic_EDE]
+OutputDir=ProjectOutputs
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
@@ -465,9 +396,6 @@ SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
-
-[Generic_EDE]
-OutputDir=ProjectOutputs
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1090,6 +1018,16 @@ OutputName2=Export STEP
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
+OutputType3=AutoCAD dwg/dxf PCB
+OutputName3=AutoCAD dwg/dxf File PCB
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=AutoCAD dwg/dxf Schematic
+OutputName4=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
 
 [Modification Levels]
 Type1=1
