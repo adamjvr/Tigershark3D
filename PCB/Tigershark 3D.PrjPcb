@@ -351,14 +351,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
-DocumentPath=ProjectOutputs\Design Rule Check - Tigershark 3D R1.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=..\..\..\..\Desktop\IDFReport_Tigershark 3D R1.8.html
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Tigershark 3D R1.8.PcbDoc.htm
 DItemRevisionGUID=
 
