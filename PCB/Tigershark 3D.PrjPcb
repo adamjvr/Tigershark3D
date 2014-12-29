@@ -5,7 +5,7 @@ ChannelRoomNamingStyle=0
 ReleasesFolder=
 ReleaseVaultGUID=
 ReleaseVaultName=
-ChannelDesignatorFormatString=$Component_$RoomName
+ChannelDesignatorFormatString=$Component$ChannelAlpha
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
 ArchiveProject=0
@@ -51,7 +51,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MRMJQKFF
+DocumentUniqueId=UGIRFMBC
 
 [Document2]
 DocumentPath=Thermocouple Channel.SchDoc
@@ -68,7 +68,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QFUCDXWG
+DocumentUniqueId=KVHDWTDX
 
 [Document3]
 DocumentPath=Endstop Channel.SchDoc
@@ -85,7 +85,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QQRUIGXT
+DocumentUniqueId=XJPAFOOV
 
 [Document4]
 DocumentPath=ATSAM3X8E Main Controller.SchDoc
@@ -136,7 +136,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ARVVPHUH
 
 [Document7]
 DocumentPath=..\..\altiumPartLib\Adams Altium Library.SchLib
@@ -187,7 +187,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ONJNNUXA
+DocumentUniqueId=ACVGVAIW
 
 [Document10]
 DocumentPath=Thermistor Channel.SchDoc
@@ -204,7 +204,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YSDPEJWC
+DocumentUniqueId=QWEFYNIT
 
 [Document11]
 DocumentPath=Tigershark 3D R1.8.PcbDoc
@@ -374,13 +374,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XRBDFADU
 
 [GeneratedDocument1]
-DocumentPath=..\..\..\..\Desktop\IDFReport_Tigershark 3D R1.8.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Tigershark 3D R1.8.PcbDoc.htm
 DItemRevisionGUID=
 
@@ -713,7 +709,7 @@ PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration4_Name1=Filter
 Configuration4_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration4_Name2=General
-Configuration4_Item2=OpenExported=False|AddToProject=False|ForceFit=True|NotFitted=False|Database=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1247|FormHeight=653|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration4_Item2=OpenExported=False|AddToProject=False|ForceFit=True|NotFitted=False|Database=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1247|FormHeight=855|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration4_Name3=GroupOrder
 Configuration4_Item3=Quantity=True|Comment=True|Value=True|Footprint=True
 Configuration4_Name4=OutputConfigurationParameter1
