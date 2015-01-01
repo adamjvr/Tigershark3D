@@ -47,7 +47,7 @@ AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -64,11 +64,11 @@ AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RRUCPARY
+DocumentUniqueId=KUPMRQAD
 
 [Document3]
 DocumentPath=ES.SchDoc
@@ -81,11 +81,11 @@ AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QCFMFVRD
+DocumentUniqueId=VXKXDPCW
 
 [Document4]
 DocumentPath=M.SchDoc
@@ -99,9 +99,9 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=All Nets
 DItemRevisionGUID=
-GenerateClassCluster=0
+GenerateClassCluster=1
 DocumentUniqueId=SHUHCQEF
 
 [Document5]
@@ -115,7 +115,7 @@ AnnotateOrder=12
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -132,11 +132,11 @@ AnnotateOrder=13
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RXKRMAFF
+DocumentUniqueId=BSRRXBNV
 
 [Document7]
 DocumentPath=Tigershark 3D R1.8.PcbDoc
@@ -153,7 +153,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RDPXAWTK
+DocumentUniqueId=TISJPVWV
 
 [Document8]
 DocumentPath=Tigershark.OutJob
@@ -183,7 +183,7 @@ AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -323,7 +323,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BYYKHNXQ
 
 [Document18]
 DocumentPath=Libraries\Tigershark 3D1.8.SCHLIB
@@ -374,7 +374,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SBYKADET
 
 [Configuration1]
 Name=Default Configuration
@@ -1236,10 +1236,10 @@ GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
 
 [PrjClassGen]
-CompClassManualEnabled=0
-CompClassManualRoomEnabled=0
+CompClassManualEnabled=1
+CompClassManualRoomEnabled=1
 NetClassAutoBusEnabled=1
-NetClassAutoCompEnabled=0
+NetClassAutoCompEnabled=1
 NetClassAutoNamedHarnessEnabled=0
 NetClassManualEnabled=1
 
