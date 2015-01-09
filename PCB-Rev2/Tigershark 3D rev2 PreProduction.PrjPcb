@@ -136,10 +136,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BSRRXBNV
+DocumentUniqueId=UBHIMXSW
 
 [Document7]
-DocumentPath=Tigershark 3D R2.PcbDoc
+DocumentPath=Tigershark 3D R2.1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -153,7 +153,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TISJPVWV
+DocumentUniqueId=QPYWTHDU
 
 [Document8]
 DocumentPath=Tigershark.OutJob
@@ -204,7 +204,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OBRYPSGV
+DocumentUniqueId=HTBAQTEA
 
 [Document11]
 DocumentPath=Libraries\3Delight.SCHLIB
@@ -357,7 +357,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FBNNYFCN
 
 [Document20]
 DocumentPath=Libraries\ZMBo Footprint Library.PcbLib
@@ -375,6 +375,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SBYKADET
+
+[Document21]
+DocumentPath=MZ.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=14
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VBCCACSF
 
 [Configuration1]
 Name=Default Configuration
