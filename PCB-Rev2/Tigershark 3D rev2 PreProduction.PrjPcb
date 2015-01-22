@@ -139,7 +139,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UBHIMXSW
 
 [Document7]
-DocumentPath=Tigershark 3D R2.1.PcbDoc
+DocumentPath=Tigershark 3D R2.2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -340,7 +340,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TWBJYGEC
 
 [Document19]
 DocumentPath=Libraries\ZMBo Schematic Library.SchLib
