@@ -34,6 +34,18 @@ TinyG 2 ARM Firmware Repository: https://github.com/synthetos/g2
 
 BOSSA Atmel SAM Firmware Flashing Tool: https://github.com/shumatech/BOSSA
 
+Rev2 Update:
+Tigershark Rev2 saw a large amount of pin function remapping, mostly to correct the PWM issues int he rev1 board. In addition to the corrections in the circuitry Tigershark has been shrunk and reshaped into the same formfactor and breakout as the RAMBo the board that has heavily inspired Tigershark.
+
+Rev2 2D :
+![Prototype 2V0](PCB-Rev2/Tigershark_v2_2D.png)
+
+Rev2 3D :
+![Prototype 2V0](PCB-Rev2/Tigershark_v2_3D.png)
+
+Fabrication Update:
+Tigershark rev 1 runs TinyG G2 successfully and connects to Chilipeppr. Rev1 was not without its electrical bugs though, motor ref PWMs for the extruder channels were bound and inverted same issue with two of the mosfets. The rev2 design will have to be repinned to correct these issues. Rev 1 is also too large and expensive and rev2 will see quite a size shrink down and most definitely the same formfactor as the RAMBo. All in all prototype run was successful, all the subsystem circuits have been confirmed and rev2 will be completed soon after. Even though rev2 has to be done to correct the PWM signal issues the plan is to still get rev1 printing so some traces will be cut and jumper wires applied to get it setup to drive a single nozzle reprap.
+
 Rev 1 Fabricated Working Prototype:
 ![Prototype 1V9](PCB-Fabrication-Fixes/IMG_1777.JPG)
 
