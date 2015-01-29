@@ -34,13 +34,15 @@ TinyG 2 ARM Firmware Repository: https://github.com/synthetos/g2
 
 BOSSA Atmel SAM Firmware Flashing Tool: https://github.com/shumatech/BOSSA
 
-Rev 1 (prone to changes, hardware not yet locked)
-![Prototype Zero](PCB/Tigershark2D.png)
-A 3D rendering
-![Prototype Zero](PCB/tigershark3d.png)
-Bottom
-![Prototype Zero](PCB/tigershark3dbtm.png)
+Rev 1 Fabricated Working Prototype:
+![Prototype 1V9](PCB-Fabrication-Fixes/IMG_1777.JPG)
 
+Rev 1 Prototype Design
+![Prototype 1V9](PCB/Tigershark2D.png)
+A 3D rendering
+![Prototype 1V9](PCB/tigershark3d.png)
+Bottom
+![Prototype 1V9](PCB/tigershark3dbtm.png)
 
 Based on the work of:
 
