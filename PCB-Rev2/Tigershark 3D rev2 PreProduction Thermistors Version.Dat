@@ -1,4 +1,4 @@
-Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Tigershark 3D rev2 PreProduction Thermistors Version.PrjPcb|ReportField=ProjectFullPath~C:\Users\Adam\Documents\GitHub\Tigershark3D\PCB-Rev2\Tigershark 3D rev2 PreProduction Thermistors Version.PrjPcb|ReportField=Title~Bill of Materials For Project [Tigershark 3D rev2 PreProduction Thermistors Version.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~362|ReportField=ReportTime~1:20:31 PM|ReportField=ReportDate~3/30/2015|ReportField=ReportDateTime~3/30/2015 1:20:31 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~3/30/2015|ReportField=CurrentTime~12:21:44 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Adam\Documents\GitHub\Tigershark3D\PCB-Rev2\ATSAM3X8E Main Controller - TR R1.1.SchDoc|ReportField=DocumentName~ATSAM3X8E Main Controller - TR R1.1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~3/30/2015|ReportField=Organization~|ReportField=ProjectName~Tigershark 3D rev2 PreProduction Thermistors Version.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Tigershark 3D rev2 PreProduction Thermistors Version.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Adam\Documents\GitHub\Tigershark3D\PCB-Rev2\Tigershark 3D rev2 PreProduction Thermistors Version.PrjPcb
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Tigershark 3D rev2 PreProduction Thermistors Version.PrjPcb|ReportField=ProjectFullPath~C:\Users\Adam\Documents\GitHub\Tigershark3D\PCB-Rev2\Tigershark 3D rev2 PreProduction Thermistors Version.PrjPcb|ReportField=Title~Bill of Materials For Project [Tigershark 3D rev2 PreProduction Thermistors Version.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~361|ReportField=ReportTime~8:34:10 PM|ReportField=ReportDate~4/17/2015|ReportField=ReportDateTime~4/17/2015 8:34:10 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~4/17/2015|ReportField=CurrentTime~4:55:45 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Adam\Documents\GitHub\Tigershark3D\PCB-Rev2\ATSAM3X8E Main Controller - TR R1.1.SchDoc|ReportField=DocumentName~ATSAM3X8E Main Controller - TR R1.1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~4/17/2015|ReportField=Organization~|ReportField=ProjectName~Tigershark 3D rev2 PreProduction Thermistors Version.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Tigershark 3D rev2 PreProduction Thermistors Version.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Adam\Documents\GitHub\Tigershark3D\PCB-Rev2\Tigershark 3D rev2 PreProduction Thermistors Version.PrjPcb
 4.7nF|CAP CER 0402 4.7nF 25V 10% X7R|C1_ES1|C0402|CC0402KRX7R8BB472|1
 4.7nF|CAP CER 0402 4.7nF 25V 10% X7R|C1_ES2|C0402|CC0402KRX7R8BB472|1
 4.7nF|CAP CER 0402 4.7nF 25V 10% X7R|C1_ES3|C0402|CC0402KRX7R8BB472|1
@@ -47,7 +47,6 @@ EEE-1VA101XP|CAP ALUM 100UF 35V 20% SMD|C18|EEE-1VA101XP|EEE-1VA101XP|1
 0402|CAP CER 0.1UF (100nF) 16V 10% X7R 0402|C26|C0402|GRM155R71C104KA88D|1
 100nF|CAP CER 0402 100nF 16V 10% X7R|C27|C0402|GRM155R71C104KA88D|1
 0603|CAP CER 10UF 6.3V 10% JB 0603|C28|C0603|C1608JB0J106K080AB|1
-0603|CAP CER 10UF 6.3V 10% JB 0603|C29|C0603|C1608JB0J106K080AB|1
 100nF|CAP CER 0402 100nF 16V 10% X7R|C30_TR1|C0402|GRM155R71C104KA88D|1
 100nF|CAP CER 0402 100nF 16V 10% X7R|C30_TR2|C0402|GRM155R71C104KA88D|1
 100nF|CAP CER 0402 100nF 16V 10% X7R|C30_TR3|C0402|GRM155R71C104KA88D|1
@@ -126,8 +125,8 @@ S3A-13-F|DIODE DO-214AB|D4|DO-214AB|S3A-13-F|1
 1N4148WT|DIODE SOD523|D5_TR3|SOD523|1N4148WT|1
 1N4148WT|DIODE SOD523|D5_TR4|SOD523|1N4148WT|1
 S3A-13-F|DIODE DO-214AB|D6|DO-214AB|S3A-13-F|1
+S3A-13-F|DIODE DO-214AB|D7|DO-214AB|S3A-13-F|1
 RSB39VTE-17|DIODE TVS|D8|SOD323-R|RSB39VTE-17|1
-5988110107F|LED 0805 Red|D9|LED2012120|5988110107F|1
 5988140107F|LED 0805 Yellow|D10|LED2012120|5988140107F|1
 5988140107F|LED 0805 Yellow|D11|LED2012120|5988140107F|1
 B240A-13-F|Schottky Diode|D12|SK310A-TP|D Schottky|1
@@ -160,14 +159,13 @@ SMAJ30A|DIODE TVS 30V SMA|D26|SMA-SM|SMAJ30A|1
 SMAJ30A|DIODE TVS 30V SMA|D27|SMA-SM|SMAJ30A|1
 SMAJ30A|DIODE TVS 30V SMA|D28|SMA-SM|SMAJ30A|1
 5988140107F|LED 0805 Yellow|D29|LED2012120|5988140107F|1
-5988140107F|LED 0805 Yellow|D30|LED2012120|5988140107F|1
-5988140107F|LED 0805 Yellow|D31|LED2012120|5988140107F|1
 PESDxL2BT|PESDxL2BT TVS Diode Array 2x|DA1|SOT95P230X110-3N|PESDxL2BT|1
 PESDxL2BT|PESDxL2BT TVS Diode Array 2x|DA2|SOT95P230X110-3N|PESDxL2BT|1
 PESDxL2BT|PESDxL2BT TVS Diode Array 2x|DA3|SOT95P230X110-3N|PESDxL2BT|1
 PESDxL2BT|PESDxL2BT TVS Diode Array 2x|DA4|SOT95P230X110-3N|PESDxL2BT|1
-3522-2|Fuse|F1|3522-2 - WAVE SOLDER|Fuse 1|1
-3522-2|Fuse|F2|3522-2 - WAVE SOLDER|Fuse 1|1
+3557-2|FUSE PTH ATO|F1|3557|3557-2|1
+3557-2|FUSE PTH ATO|F2|3557|3557-2|1
+3557-2|FUSE PTH ATO|F3|3557|3557-2|1
 Molex 70543-02|Molex 70543-02|FAN-1|70543-02|Molex 70543-02|1
 BLM15HG601SN1D|BLM15HG601SN1D|FB4|BLM18PG121SN1D|BLM15HG601SN1D|1
 BLM15HG601SN1D|BLM15HG601SN1D|FB5|BLM18PG121SN1D|BLM15HG601SN1D|1
@@ -178,6 +176,7 @@ BLM15HG601SN1D|BLM15HG601SN1D|FB9|BLM18PG121SN1D|BLM15HG601SN1D|1
 FIDUCIAL||FD1|FIDUCIAL-1X2|FIDUCIAL|1
 FIDUCIAL||FD2|FIDUCIAL-1X2|FIDUCIAL|1
 FIDUCIAL||FD3|FIDUCIAL-1X2|FIDUCIAL|1
+TP4|Socket|GND_TP|TP-2|Socket|1
 USB-B||J1|PN61729|USB-B|1
 FTSH-105-XX-X-DV||J2|FTSH-105-XX-X-DV|ARM Cortex JTAG-DEBUG Header|1
 SJ|SMD solder jumper|JP1|SJ|SJ|1
@@ -201,17 +200,15 @@ Molex 70543-02|Molex 70543-02|P2_TR1|70543-02|Molex 70543-02|1
 Molex 70543-02|Molex 70543-02|P2_TR2|70543-02|Molex 70543-02|1
 Molex 70543-02|Molex 70543-02|P2_TR3|70543-02|Molex 70543-02|1
 Molex 70543-02|Molex 70543-02|P2_TR4|70543-02|Molex 70543-02|1
-Header 5X2|Header, 5-Pin, Dual row|P3|HDR2X5|Header 5X2|1
-Header 4X2|Header, 4-Pin, Dual row|P4|HDR2X4|Header 4X2|1
+Header 6|Header, 6-Pin|P3|HDR1X6|Header 6|1
 302-S161|16 Pos 2.54mm Pin Connector Shrouded|P5|302-S161|302-S161|1
 302-S161|16 Pos 2.54mm Pin Connector Shrouded|P6|302-S161|302-S161|1
-IRML6346TRPBF|N-Channel MOSFET|Q2|IRLML6346|IRML6346TRPBF|1
-IRML6346TRPBF|N-Channel MOSFET|Q3|IRLML6346|IRML6346TRPBF|1
+NCV8402AD||Q1|NCV8402AD-SOIC8|NCV8402AD|1
 PSMN7R0-60YS|N-Channel MOSFET|Q4|PSMN7R0-60YS|PSMN7R0-60YS|1
 PSMN7R0-60YS|N-Channel MOSFET|Q5|PSMN7R0-60YS|PSMN7R0-60YS|1
 PSMN7R0-60YS|N-Channel MOSFET|Q6|PSMN7R0-60YS|PSMN7R0-60YS|1
 PSMN7R0-60YS|N-Channel MOSFET|Q7|PSMN7R0-60YS|PSMN7R0-60YS|1
-Res3|Resistor|R1|J1-0603|Res3|1
+10K|RES 0603 10K 100mW 1%|R1|R0603|ERJ-3EKF1002V|1
 2.7K|RES SMD 2.7K OHM 5% 1/10W 0402|R2_ES1|R0402|ERJ-2GEJ272X|1
 2.7K|RES SMD 2.7K OHM 5% 1/10W 0402|R2_ES2|R0402|ERJ-2GEJ272X|1
 2.7K|RES SMD 2.7K OHM 5% 1/10W 0402|R2_ES3|R0402|ERJ-2GEJ272X|1
@@ -246,8 +243,6 @@ Res3|Resistor|R1|J1-0603|Res3|1
 1M|RES 0402 1M 100mW 5%|R24|R0402|ERJ2GEJ105X|1
 1K|RES 0603 1K 100mW 1%|R25|R0603|ERJ-3EKF1001V|1
 1K|RES 0603 1K 100mW 1%|R26|R0603|ERJ-3EKF1001V|1
-1K|RES 0603 1K 100mW 1%|R27|R0603|ERJ-3EKF1001V|1
-1K|RES 0603 1K 100mW 1%|R28|R0603|ERJ-3EKF1001V|1
 1M|RES 0402 1M 100mW 5%|R30_M1|R0402|ERJ2GEJ105X|1
 1M|RES 0402 1M 100mW 5%|R30_M2|R0402|ERJ2GEJ105X|1
 1M|RES 0402 1M 100mW 5%|R30_M3|R0402|ERJ2GEJ105X|1
@@ -269,28 +264,32 @@ Res3|Resistor|R1|J1-0603|Res3|1
 2512|RES SMD 0.1 OHM 1% 2W 2512|R38|2512R-0.55|CSRN2512FTR100|1
 2512|RES SMD 0.1 OHM 1% 2W 2512|R39|2512R-0.55|CSRN2512FTR100|1
 10r|RES 0603 10r 100mW 1%|R45|R0603|CRCW060310R0FKEA|1
-100K|RES 100K OHM 1/10W 1% 0603 SMD|R46|R0603|RC0603FR-07100KL|1
+100K|RES SMD 100K OHM 1% 1/16W 0402|R46|R0402|RC1005F104CS|1
 1.8K|RES 0603 1.8K 100mW 5%|R47|R0603|RC0603JR-071K8L|1
 10r|RES 0603 10r 100mW 1%|R52|R0603|CRCW060310R0FKEA|1
-100K|RES 100K OHM 1/10W 1% 0603 SMD|R55|R0603|RC0603FR-07100KL|1
+100K|RES SMD 100K OHM 1% 1/16W 0402|R55|R0402|RC1005F104CS|1
 1.8K|RES 0603 1.8K 100mW 5%|R56|R0603|RC0603JR-071K8L|1
 10r|RES 0603 10r 100mW 1%|R58|R0603|CRCW060310R0FKEA|1
-100K|RES 100K OHM 1/10W 1% 0603 SMD|R59|R0603|RC0603FR-07100KL|1
+100K|RES SMD 100K OHM 1% 1/16W 0402|R59|R0402|RC1005F104CS|1
 1.8K|RES 0603 1.8K 100mW 5%|R60|R0603|RC0603JR-071K8L|1
 10r|RES 0603 10r 100mW 1%|R62|R0603|CRCW060310R0FKEA|1
-100K|RES 100K OHM 1/10W 1% 0603 SMD|R63|R0603|RC0603FR-07100KL|1
+100K|RES SMD 100K OHM 1% 1/16W 0402|R63|R0402|RC1005F104CS|1
 1.8K|RES 0603 1.8K 100mW 5%|R64|R0603|RC0603JR-071K8L|1
 10r|RES 0603 10r 100mW 1%|R66|R0603|CRCW060310R0FKEA|1
-100K|RES 100K OHM 1/10W 1% 0603 SMD|R67|R0603|RC0603FR-07100KL|1
+100K|RES SMD 100K OHM 1% 1/16W 0402|R67|R0402|RC1005F104CS|1
 1.8K|RES 0603 1.8K 100mW 5%|R68|R0603|RC0603JR-071K8L|1
 10r|RES 0603 10r 100mW 1%|R70|R0603|CRCW060310R0FKEA|1
-100K|RES 100K OHM 1/10W 1% 0603 SMD|R71|R0603|RC0603FR-07100KL|1
+100K|RES SMD 100K OHM 1% 1/16W 0402|R71|R0402|RC1005F104CS|1
 1571610-2|SWTCH Momentary Washable|S1|B3F-31XX|1571610-2_1|1
 Molex 0395311010|MSBTV10 10 port connector same as RAMBo|T1|MSTBV10|0395311010 - Molex 10 Position Connector|1
-con-phoenix-508 - 2|con-phoenix-508 - 2|T2|MSTBV2 - duplicate|con-phoenix-508_2|1
-con-phoenix-508 - 4|con-phoenix-508 - 4|T3|MSTBV4|con-phoenix-508_4|1
+MSTBV6|PHOENIX|T1|MSTBV6|MSTBV6|1
 Molex 0705430003|Molex 4 Pin Clip Connector|T4|4POL254|Molex 0705430003 Alt|1
+TP4|Socket|TP1_M1|TP-2|Socket|1
+TP4|Socket|TP1_M2|TP-2|Socket|1
+TP4|Socket|TP1_M3|TP-2|Socket|1
+TP4|Socket|TP1_M4|TP-2|Socket|1
 TP4|Socket|TP2|TP-2|Socket|1
+TP4|Socket|TP3|TP-2|Socket|1
 TP4|Socket|TP6|TP-2|Socket|1
 TP4|Socket|TP7|TP-2|Socket|1
 TP4|Socket|TP8|TP-2|Socket|1
