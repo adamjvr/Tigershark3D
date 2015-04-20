@@ -1,3 +1,0 @@
-Added Component: Designator=GND_TP(TP-2)
-Added Pin To Net: NetName=GND Pin=GND_TP-1
-Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component GND_TP TP4
