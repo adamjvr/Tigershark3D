@@ -1,0 +1,177 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Adam\Documents\GitHub\Tigershark3D\PCB-Rev2\Tigershark 3D R2.4 - TR.PcbDoc
+Date     : 5/12/2015
+Time     : 10:14:08 PM
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Isolated copper: Split Plane  (GND)  on Groun Plane. Dead copper detected. Copper area is : 6.4E2 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on Groun Plane. Dead copper detected. Copper area is : 4.5E2 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on Groun Plane. Dead copper detected. Copper area is : 1.4E2 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on Groun Plane. Dead copper detected. Copper area is : 1.4E2 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on Groun Plane. Dead copper detected. Copper area is : 1.4E2 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on Groun Plane. Copper island connected to pads/vias detected. Copper area is : 0.38 sq. mils
+   Violation between Isolated copper: Split Plane  (GND)  on Groun Plane. Copper island connected to pads/vias detected. Copper area is : 0.38 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 1.9E2 sq. mils
+   Violation between Isolated copper: Split Plane  (3.3VCC)  on Power Plane. Dead copper detected. Copper area is : 1.7E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 2E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 1.9E2 sq. mils
+   Violation between Isolated copper: Split Plane  (+12VCC1)  on Power Plane. Dead copper detected. Copper area is : 1.7E2 sq. mils
+   Violation between Un-Routed Net Constraint: Net EN_EXP2 Between Track on layer Top Layer (1360,2055mil) And Track on layer Bottom Layer (1360,2085mil)
+Rule Violations :48
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7mil) (Max=200mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=35mil) (Conductor Width=50mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=15mil) (Max=200mil) (All)
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1819.364mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1819.364mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1819.364mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1776.057mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1776.057mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1776.057mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1732.75mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1732.75mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1732.75mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1689.443mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1689.443mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1689.443mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1646.136mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1646.136mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1646.136mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (3005.876mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (3005.876mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (3005.876mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (3049.183mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (3049.183mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (3049.183mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (3092.49mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (3092.49mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (3092.49mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (3135.797mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (3135.797mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (3135.797mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (3179.104mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (3179.104mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (3179.104mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (2325.876mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (2325.876mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (2325.876mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (2369.183mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (2369.183mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (2369.183mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (2412.49mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (2412.49mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (2412.49mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (2455.797mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (2455.797mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (2455.797mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (2499.104mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (2499.104mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (2499.104mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (965.876mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (965.876mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (965.876mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1009.183mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1009.183mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1009.183mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1052.49mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1052.49mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1052.49mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1095.797mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1095.797mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1095.797mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1139.104mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1139.104mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (1139.104mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (285.876mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (285.876mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (285.876mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (329.183mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (329.183mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (329.183mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (372.49mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (372.49mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (372.49mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (415.797mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (415.797mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (415.797mil,987.307mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (459.104mil,900.693mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (459.104mil,944mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (7.874mil < 15mil) : Via (459.104mil,987.307mil) Top Layer to Bottom Layer
+Rule Violations :75
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Track (1360mil,2085mil)(1400mil,2125mil)  Bottom Layer
+Rule Violations :1
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) ((InComponent('P2_TR1') OR InComponent('P2_TR2') OR InComponent('MIN1_ES1') OR InNet('MAX_ES1') OR InComponent('MAX1_ES2') OR InComponent('MIN1_ES2') OR InComponent('MIN1_ES3') OR InComponent('MAX1_ES3') OR InComponent('S1') OR InComponent('USB') OR InComponent('P3') OR InComponent('P4') OR InComponent('P5') OR InComponent('P6')  OR InComponent('FAN-1') OR InComponent('FAN0') OR InComponent('P2')))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) ((InComponent('F1') or InComponent('F2') or InComponent('T1') or InComponent('T2') or InComponent('T3') or InComponent('C7')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=8mil) (Preferred=8mil) (InNet(UMCU_N) And InNet(UMCU_P))
+Rule Violations :0
+
+
+Violations Detected : 124
+Time Elapsed        : 00:00:07
