@@ -1,16 +1,14 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Adam\Documents\GitHub\Tigershark3D\PCB-Rev2\Tigershark 3D R2.4 - TR.PcbDoc
-Date     : 6/12/2015
-Time     : 1:40:19 PM
+Date     : 6/15/2015
+Time     : 3:39:37 PM
 
 Processing Rule : SMD To Corner (Distance=3mil) (All)
 Rule Violations :0
 
 Processing Rule : Acute Angle Constraint (Minimum=60.000) (All)
-   Violation between Acute Angle Constraint Between Pad on TopLayer And Track on TopLayer
    Violation between Acute Angle Constraint Between Track on TopLayer And Pad on TopLayer
-   Violation between Acute Angle Constraint Between Track on TopLayer And Pad on TopLayer
-Rule Violations :3
+Rule Violations :1
 
 Processing Rule : Width Constraint (Min=8mil) (Max=8mil) (Preferred=8mil) (InNet(UMCU_N) And InNet(UMCU_P))
 Rule Violations :0
@@ -58,5 +56,5 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
 
-Violations Detected : 3
-Time Elapsed        : 00:00:06
+Violations Detected : 1
+Time Elapsed        : 00:00:05
