@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Tigershark 3D rev2 PreProduction Thermistors Version.PrjPcb]
+   Generated File[Tigershark 3D R2.4 - TR.TXT]
+   Generated File[Tigershark 3D R2.4 - TR.LDP]
+   Generated File[Tigershark 3D R2.4 - TR.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 7:28:40 PM On 7/7/2015

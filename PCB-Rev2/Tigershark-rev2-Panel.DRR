@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: Tigershark-rev2-Panel.PcbDoc   7/1/2015  3:58:59 PM
+NCDrill File Report For: Tigershark-rev2-Panel.PcbDoc   7/7/2015  7:29:24 PM
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : Tigershark-rev2-Panel.TXT
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        15mil (0.381mm)          Round          2480             254.10 Inch (6454.22 mm)
+T1        15mil (0.381mm)          Round          2464             254.70 Inch (6469.50 mm)
 T2        35mil (0.889mm)          Round          84               15.75 Inch (399.97 mm)
 T3        38mil (0.9652mm)         Round          8                4.47 Inch (113.42 mm)
 T4        40mil (1.016mm)          Round          120              34.64 Inch (879.80 mm)
@@ -17,6 +17,6 @@ T7        63mil (1.6002mm)         Round          24               11.29 Inch (2
 T8        87mil (2.2098mm)         Round          4                4.52 Inch (114.89 mm)
 T9        118mil (2.9972mm)        Round          12        NPTH   27.08 Inch (687.85 mm)
 ---------------------------------------------------------------------------
-Totals                                            2768             369.42 Inch (9383.25 mm)
+Totals                                            2752             370.02 Inch (9398.53 mm)
 
 Total Processing Time (hh:mm:ss) : 00:00:01

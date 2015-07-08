@@ -1,336 +1,62 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Adam\Documents\GitHub\Tigershark3D\PCB-Rev2\Tigershark 3D R2.4 - TR.PcbDoc
-Date     : 7/7/2015
-Time     : 6:16:20 PM
+Date     : 7/8/2015
+Time     : 4:24:48 PM
 
-WARNING: Your board contains 87 shelved polygons - copper connectivity will not be reported correctly. Unshelve polygons and re-run DRC check before  producing manufacturing outputs.
-   Polygon named: Bottom Layer-No Net In net GND On Top Layer
-   Polygon named: Top Layer-No Net In net GND On Top Layer
-   Polygon named: Bottom Layer-No Net In net HTR1 On Top Layer
-   Polygon named: Top Layer-No Net In net GND On Top Layer
-   Polygon named: Top Layer-No Net In net GND On Top Layer
-   Polygon named: Top Layer-No Net In net GND On Top Layer
-   Polygon named: Top Layer-No Net In net GND On Top Layer
-   Polygon named: Top Layer-No Net In net GND On Top Layer
-   Polygon named: Bottom Layer-No Net In net GND On Top Layer
-   Polygon named: Top Layer-No Net In net NetC19_1 On Top Layer
-   Polygon named: Bottom Layer-No Net In net GND On Top Layer
-   Polygon named: Bottom Layer-No Net In net GND On Top Layer
-   Polygon named: Bottom Layer-No Net In net NetF3_1 On Top Layer
-   Polygon named: Bottom Layer-No Net In net GND On Top Layer
-   Polygon named: Bottom Layer-No Net In net GND On Top Layer
-   Polygon named: Bottom Layer-No Net In net GND On Top Layer
-   Polygon named: Top Layer-No Net In net +12VCC2 On Top Layer
-   Polygon named: Top Layer-No Net In net +12VCC2 On Top Layer
-   Polygon named: Top Layer-No Net In net +12VCC2 On Top Layer
-   Polygon named: Bottom Layer-No Net In net HTBD On Top Layer
-   Polygon named: SMPS In net GND On Top Layer
-   Polygon named: SMPS In net NetC40_2 On Top Layer
-   Polygon named: SMPS In net NetD2_A On Top Layer
-   Polygon named: Bottom Layer-No Net In net HTR0 On Top Layer
-   Polygon named: Bottom Layer-No Net In net HTRA On Top Layer
-   Polygon named: Bottom Layer-No Net In net +12VCC3 On Top Layer
-   Polygon named: Bottom Layer-No Net In net +12VCC3 On Top Layer
-   Polygon named: Bottom Layer-No Net In net NetF2_1 On Top Layer
-   Polygon named: Bottom Layer-No Net In net +12VCC1 On Top Layer
-   Polygon named: Bottom Layer-No Net In net GND On Top Layer
-   Polygon named: Bottom Layer-No Net In net GND On Top Layer
-   Polygon named: Bottom Layer-No Net In net GND On Top Layer
-   Polygon named: Bottom Layer-No Net In net GND On Top Layer
-   Polygon named: Bottom Layer-No Net In net NetF1_1 On Top Layer
-   Polygon named: Bottom Layer-No Net In net GND On Top Layer
-   Polygon named: Bottom Layer-No Net In net +12VCC2 On Top Layer
-   Polygon named: Bottom Layer-No Net In net FN1 On Top Layer
-   Polygon named: Bottom Layer-No Net In net GND On Top Layer
-   Polygon named: Top Layer-No Net In net NetD10_C On Top Layer
-   Polygon named: Top Layer-No Net In net GND On Top Layer
-   Polygon named: Top Layer-No Net In net GND On Top Layer
-   Polygon named: Top Layer-No Net In net GND On Top Layer
-   Polygon named: Bottom Layer-No Net In net GND On Top Layer
-   Polygon named: Bottom Layer-No Net In net GND On Top Layer
-   Polygon named: Top Layer-No Net In net +12VCC2 On Top Layer
-   Polygon named: Top Layer-No Net In net +12VCC2 On Top Layer
-   Polygon named: Top Layer-No Net In net GND On Top Layer
-   Polygon named: Bottom Layer-No Net In net GND On Top Layer
-   Polygon named: Bottom Layer-No Net In net +12VCC2 On Top Layer
-   Polygon named: Bottom Layer-No Net In net GND On Top Layer
-   Polygon named: Top Layer-No Net In net GND On Bottom Layer
-   Polygon named: Top Layer-No Net In net GND On Bottom Layer
-   Polygon named: Top Layer-No Net In net GND On Bottom Layer
-   Polygon named: Top Layer-No Net In net GND On Bottom Layer
-   Polygon named: Top Layer-No Net In net GND On Bottom Layer
-   Polygon named: Bottom Layer-No Net In net GND On Bottom Layer
-   Polygon named: Bottom Layer-No Net In net GND On Bottom Layer
-   Polygon named: Bottom Layer-No Net In net +12VCC3 On Bottom Layer
-   Polygon named: Top Layer-No Net In net HTR1 On Bottom Layer
-   Polygon named: Top Layer-No Net In net HTRA On Bottom Layer
-   Polygon named: Top Layer-No Net In net HTR0 On Bottom Layer
-   Polygon named: NONET_L04_P196 In net INPUT_GND On Bottom Layer
-   Polygon named: Top Layer-No Net In net INPUT_GND On Bottom Layer
-   Polygon named: Top Layer-No Net In net GND On Bottom Layer
-   Polygon named: Bottom Layer-No Net In net +12VCC2 On Bottom Layer
-   Polygon named: Bottom Layer-No Net In net NetF1_1 On Bottom Layer
-   Polygon named: Top Layer-No Net In net GND On Bottom Layer
-   Polygon named: Bottom Layer-No Net In net GND On Bottom Layer
-   Polygon named: Bottom Layer-No Net In net GND On Bottom Layer
-   Polygon named: Bottom Layer-No Net In net GND On Bottom Layer
-   Polygon named: Top Layer-No Net In net GND On Bottom Layer
-   Polygon named: Top Layer-No Net In net GND On Bottom Layer
-   Polygon named: Top Layer-No Net In net GND On Bottom Layer
-   Polygon named: Top Layer-No Net In net GND On Bottom Layer
-   Polygon named: Top Layer-No Net In net GND On Bottom Layer
-   Polygon named: Top Layer-No Net In net +12VCC2 On Bottom Layer
-   Polygon named: Top Layer-No Net In net +12VCC2 On Bottom Layer
-   Polygon named: Top Layer-No Net In net +12VCC2 On Bottom Layer
-   Polygon named: Bottom Layer-No Net In net +12VCC1 On Bottom Layer
-   Polygon named: Bottom Layer-No Net In net NetF3_1 On Bottom Layer
-   Polygon named: Bottom Layer-No Net In net NetF2_1 On Bottom Layer
-   Polygon named: Bottom Layer-No Net In net HTBD On Bottom Layer
-   Polygon named: Top Layer-No Net In net +12VCC2 On Bottom Layer
-   Polygon named: Top Layer-No Net In net FN1 On Bottom Layer
-   Polygon named: Top Layer-No Net In net NetD10_C On Bottom Layer
-   Polygon named: Top Layer-No Net In net +12VCC2 On Bottom Layer
-   Polygon named: Top Layer-No Net In net GND On Bottom Layer
-
-Processing Rule : SMD To Corner (Distance=3mil) (All)
-Rule Violations :0
-
-Processing Rule : Acute Angle Constraint (Minimum=60.000) (All)
-   Violation between Acute Angle Constraint Between Pad on TopLayer And Track on TopLayer
-Rule Violations :1
-
-Processing Rule : Width Constraint (Min=8mil) (Max=8mil) (Preferred=8mil) (InNet(UMCU_N) And InNet(UMCU_P))
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) ((InComponent('F1') or InComponent('F2') or InComponent('T1') or InComponent('T2') or InComponent('T3') or InComponent('C7')))
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) ((InComponent('P2_TR1') OR InComponent('P2_TR2') OR InComponent('MIN1_ES1') OR InNet('MAX_ES1') OR InComponent('MAX1_ES2') OR InComponent('MIN1_ES2') OR InComponent('MIN1_ES3') OR InComponent('MAX1_ES3') OR InComponent('S1') OR InComponent('USB') OR InComponent('P3') OR InComponent('P4') OR InComponent('P5') OR InComponent('P6')  OR InComponent('FAN-1') OR InComponent('FAN0') OR InComponent('P2')))
-Rule Violations :0
-
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Via (2266.496mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2306.496mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2306.496mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2266.496mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2266.496mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2306.496mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2306.496mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2266.496mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2186.496mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2146.496mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2146.496mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2186.496mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2186.496mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2146.496mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2146.496mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2186.496mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2226.496mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2226.496mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2226.496mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2226.496mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1811mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1851mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1851mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1811mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1811mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1851mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1851mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1811mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1731mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1691mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1691mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1731mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1731mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1691mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1691mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1731mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1771mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1771mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1771mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1771mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1410mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1450mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1450mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1410mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1410mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1450mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1450mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1410mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1330mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1290mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1290mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1330mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1330mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1290mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1290mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1330mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1370mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1370mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1370mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1370mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1011.496mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1051.496mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1051.496mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1011.496mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1011.496mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1051.496mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1051.496mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1011.496mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (931.496mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (891.496mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (891.496mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (931.496mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (931.496mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (891.496mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (891.496mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (931.496mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (971.496mil,3302.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (971.496mil,3342.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (971.496mil,3422.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (971.496mil,3382.025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3465mil,2905mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3465mil,2975mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3465mil,3040mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3520mil,2835mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3520mil,3105mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3520mil,2975mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3700mil,2970mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3610mil,3105mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3700mil,3035mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3700mil,2900mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3610mil,2835mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3520mil,2905mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3520mil,3040mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3610mil,2970mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3785mil,2955mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3790mil,3085mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (4005mil,3090mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (4000mil,2955mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (4005mil,3025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3895mil,2955mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3785mil,3025mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3895mil,3090mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (4000mil,3290mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (4000mil,3160mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (4000mil,3225mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2605mil,3390mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2605mil,3235mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3465mil,3225mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3465mil,3295mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3465mil,3360mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3465mil,3425mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3780mil,3360mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (4005mil,3495mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (4005mil,3355mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3895mil,3495mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3785mil,3425mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (4005mil,3425mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3895mil,3355mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3705mil,3225mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3515mil,3225mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3705mil,3360mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3515mil,3360mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3705mil,3430mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3610mil,3360mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3705mil,3295mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3610mil,3225mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3515mil,3295mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (3515mil,3425mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (4005mil,2825mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (4005mil,2750mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (4005mil,2890mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (157mil,2686mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (45mil,2685mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1770mil,3950mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1950mil,3950mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1960mil,3615mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1960mil,3415mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1370mil,3950mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1565mil,3950mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1560mil,3615mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1560mil,3415mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1160mil,3615mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1155mil,3950mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (970mil,3950mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1375mil,3615mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (970mil,3840mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1160mil,3840mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (970mil,3745mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1160mil,3730mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1565mil,3730mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1370mil,3730mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1565mil,3840mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1370mil,3840mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1770mil,3840mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1770mil,3730mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1950mil,3840mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1880mil,3730mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1160mil,3425mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (495mil,2350mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (495mil,2260mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (250mil,2685mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (355mil,2685mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2605mil,3555mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2430mil,3180mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2460mil,3235mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (2520mil,3555mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1480mil,3950mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1950mil,3730mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1880mil,3950mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1480mil,3730mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1080mil,3730mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (1080mil,3950mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (750mil,3840mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (610mil,3840mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (680mil,3950mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (680mil,3730mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (750mil,3730mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (750mil,3950mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (610mil,3950mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (610mil,3730mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (610mil,3645mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (680mil,3645mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Via (750mil,3645mil) Top Layer to Bottom Layer
-   Violation between Net Antennae: Track (3800mil,1330mil)(3805mil,1335mil)  Top Layer
-Rule Violations :184
-
-Processing Rule : Silk to Silk (Clearance=10mil) (Disabled)(All),(All)
-Rule Violations :0
-
-Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
-Rule Violations :0
-
-Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (Disabled)(All),(All)
-Rule Violations :0
-
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Hole Size Constraint (Min=15mil) (Max=200mil) (All)
-Rule Violations :0
-
-Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=35mil) (Conductor Width=50mil) (Air Gap=10mil) (Entries=4) (All)
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=7mil) (Max=200mil) (Preferred=8mil) (All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Minimum Annular Ring (Minimum=7mil) (All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=7mil) (All)
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7mil) (Max=200mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=35mil) (Conductor Width=50mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=15mil) (Max=200mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) ((InComponent('P2_TR1') OR InComponent('P2_TR2') OR InComponent('MIN1_ES1') OR InNet('MAX_ES1') OR InComponent('MAX1_ES2') OR InComponent('MIN1_ES2') OR InComponent('MIN1_ES3') OR InComponent('MAX1_ES3') OR InComponent('S1') OR InComponent('USB') OR InComponent('P3') OR InComponent('P4') OR InComponent('P5') OR InComponent('P6')  OR InComponent('FAN-1') OR InComponent('FAN0') OR InComponent('P2')))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) ((InComponent('F1') or InComponent('F2') or InComponent('T1') or InComponent('T2') or InComponent('T3') or InComponent('C7')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=8mil) (Preferred=8mil) (InNet(UMCU_N) And InNet(UMCU_P))
+Rule Violations :0
+
+Processing Rule : Acute Angle Constraint (Minimum=60.000) (All)
+Rule Violations :0
+
+Processing Rule : SMD To Corner (Distance=3mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 185
-Time Elapsed        : 00:00:06
+Violations Detected : 0
+Time Elapsed        : 00:00:07

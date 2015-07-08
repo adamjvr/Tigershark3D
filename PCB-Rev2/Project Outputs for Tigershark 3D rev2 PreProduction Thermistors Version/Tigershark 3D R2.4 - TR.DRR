@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Tigershark 3D R2.4 - TR.PcbDoc   7/7/2015  7:28:40 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Tigershark 3D R2.4 - TR.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15mil (0.381mm)          Round          1232             132.02 Inch (3353.25 mm)
+T2        35mil (0.889mm)          Round          42               6.01 Inch (152.56 mm)
+T3        38mil (0.9652mm)         Round          4                0.26 Inch (6.53 mm)
+T4        40mil (1.016mm)          Round          60               12.39 Inch (314.80 mm)
+T5        55mil (1.397mm)          Round          16               8.10 Inch (205.63 mm)
+T6        59mil (1.4986mm)         Round          2                0.28 Inch (7.01 mm)
+T7        63mil (1.6002mm)         Round          12               3.55 Inch (90.22 mm)
+T8        87mil (2.2098mm)         Round          2                0.47 Inch (12.02 mm)
+T9        118mil (2.9972mm)        Round          4         NPTH   12.94 Inch (328.61 mm)
+---------------------------------------------------------------------------
+Totals                                            1374             176.01 Inch (4470.65 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
