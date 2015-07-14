@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=C69-1
+Removed Pin From Net: NetName=3.3VCC Pin=C70-2
+Change Component Footprint: Designator=C69 Old Footprint=C0402 New Footprint=R0402
+Change Component Footprint: Designator=C70 Old Footprint=C0402 New Footprint=R0402
+Change Component Comment : Designator=C3_M1 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C3_M2 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C3_M3 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C3_M4 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C5_M1 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C5_M2 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C5_M3 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C5_M4 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C6_M1 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C6_M2 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C6_M3 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C6_M4 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C8_M1 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C8_M2 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C8_M3 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C8_M4 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C52 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C62 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C67 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C72 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C69 Old Comment=0402 New Comment=NP
+Change Component Comment : Designator=C70 Old Comment=0402 New Comment=NP
+Change Component Designator: OldDesignator=C69 NewDesignator=R48
+Change Component Designator: OldDesignator=C70 NewDesignator=R49
+Added Pin To Net: NetName=DECAYZ Pin=R48-1
+Added Pin To Net: NetName=DECAYZ Pin=R49-2
+Added Pin To Net: NetName=DECAYZ Pin=U5-19
+Added Net: Name=DECAYZ

@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=C35 Old DesignItemId=C0603C104K5RACTU New DesignItemId=GRM155R71C104KA88D
+Change Component DesignItemId : Designator=C66_M1 Old DesignItemId=C0603C104K5RACTU New DesignItemId=GRM155R71C104KA88D
+Change Component DesignItemId : Designator=C66_M2 Old DesignItemId=C0603C104K5RACTU New DesignItemId=GRM155R71C104KA88D
+Change Component DesignItemId : Designator=C66_M3 Old DesignItemId=C0603C104K5RACTU New DesignItemId=GRM155R71C104KA88D
+Change Component DesignItemId : Designator=C66_M4 Old DesignItemId=C0603C104K5RACTU New DesignItemId=GRM155R71C104KA88D
+Change Component Footprint: Designator=C35 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C66_M1 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C66_M2 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C66_M3 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C66_M4 Old Footprint=C0603 New Footprint=C0402

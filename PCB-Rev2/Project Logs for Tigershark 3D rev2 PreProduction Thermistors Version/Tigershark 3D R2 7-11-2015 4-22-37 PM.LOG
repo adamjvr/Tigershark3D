@@ -1,0 +1,40 @@
+Added Component: Designator=C12_M1(C0603)
+Added Component: Designator=C12_M2(C0603)
+Added Component: Designator=C12_M3(C0603)
+Added Component: Designator=C12_M4(C0603)
+Added Component: Designator=C14_M1(C0603)
+Added Component: Designator=C14_M2(C0603)
+Added Component: Designator=C14_M3(C0603)
+Added Component: Designator=C14_M4(C0603)
+Added Component: Designator=C31(C0603)
+Added Component: Designator=C69(C0603)
+Added Pin To Net: NetName=+12VCC1 Pin=C12_M1-1
+Added Pin To Net: NetName=GND Pin=C12_M1-2
+Added Pin To Net: NetName=+12VCC1 Pin=C12_M2-1
+Added Pin To Net: NetName=GND Pin=C12_M2-2
+Added Pin To Net: NetName=+12VCC1 Pin=C12_M3-1
+Added Pin To Net: NetName=GND Pin=C12_M3-2
+Added Pin To Net: NetName=+12VCC1 Pin=C12_M4-1
+Added Pin To Net: NetName=GND Pin=C12_M4-2
+Added Pin To Net: NetName=+12VCC1 Pin=C14_M1-1
+Added Pin To Net: NetName=GND Pin=C14_M1-2
+Added Pin To Net: NetName=+12VCC1 Pin=C14_M2-1
+Added Pin To Net: NetName=GND Pin=C14_M2-2
+Added Pin To Net: NetName=+12VCC1 Pin=C14_M3-1
+Added Pin To Net: NetName=GND Pin=C14_M3-2
+Added Pin To Net: NetName=+12VCC1 Pin=C14_M4-1
+Added Pin To Net: NetName=GND Pin=C14_M4-2
+Added Pin To Net: NetName=+12VCC1 Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=+12VCC1 Pin=C69-1
+Added Pin To Net: NetName=GND Pin=C69-2
+Added Member To Class: ClassName=M1 Member=Component C12_M1 (C12) 100nF
+Added Member To Class: ClassName=M2 Member=Component C12_M2 (C12) 100nF
+Added Member To Class: ClassName=M3 Member=Component C12_M3 (C12) 100nF
+Added Member To Class: ClassName=M4 Member=Component C12_M4 (C12) 100nF
+Added Member To Class: ClassName=M1 Member=Component C14_M1 (C14) 100nF
+Added Member To Class: ClassName=M2 Member=Component C14_M2 (C14) 100nF
+Added Member To Class: ClassName=M3 Member=Component C14_M3 (C14) 100nF
+Added Member To Class: ClassName=M4 Member=Component C14_M4 (C14) 100nF
+Added Member To Class: ClassName=U_MZ Member=Component C31 100nF
+Added Member To Class: ClassName=U_MZ Member=Component C69 100nF

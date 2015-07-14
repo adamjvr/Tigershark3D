@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=GND Pin=C12_M1-1
+Removed Pin From Net: NetName=GND Pin=C12_M2-1
+Removed Pin From Net: NetName=GND Pin=C12_M3-1
+Removed Pin From Net: NetName=GND Pin=C12_M4-1
+Removed Pin From Net: NetName=3.3VCC Pin=C14_M1-2
+Removed Pin From Net: NetName=3.3VCC Pin=C14_M2-2
+Removed Pin From Net: NetName=3.3VCC Pin=C14_M3-2
+Removed Pin From Net: NetName=3.3VCC Pin=C14_M4-2
+Removed Pin From Net: NetName=GND Pin=C69-1
+Removed Pin From Net: NetName=3.3VCC Pin=C70-2
+Change Component Footprint: Designator=C12_M1 Old Footprint=C0402 New Footprint=R0402
+Change Component Footprint: Designator=C12_M2 Old Footprint=C0402 New Footprint=R0402
+Change Component Footprint: Designator=C12_M3 Old Footprint=C0402 New Footprint=R0402
+Change Component Footprint: Designator=C12_M4 Old Footprint=C0402 New Footprint=R0402
+Change Component Footprint: Designator=C14_M1 Old Footprint=C0402 New Footprint=R0402
+Change Component Footprint: Designator=C14_M2 Old Footprint=C0402 New Footprint=R0402
+Change Component Footprint: Designator=C14_M3 Old Footprint=C0402 New Footprint=R0402
+Change Component Footprint: Designator=C14_M4 Old Footprint=C0402 New Footprint=R0402
+Change Component Footprint: Designator=C69 Old Footprint=C0402 New Footprint=R0402
+Change Component Footprint: Designator=C70 Old Footprint=C0402 New Footprint=R0402
+Change Component Comment : Designator=C3_M1 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C3_M2 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C3_M3 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C3_M4 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C5_M1 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C5_M2 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C5_M3 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C5_M4 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C6_M1 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C6_M2 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C6_M3 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C6_M4 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C8_M1 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C8_M2 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C8_M3 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C8_M4 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C52 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C62 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C67 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C72 Old Comment=10nF New Comment=1nF
+Change Component Comment : Designator=C12_M1 Old Comment=0402 New Comment=NP
+Change Component Comment : Designator=C12_M2 Old Comment=0402 New Comment=NP
+Change Component Comment : Designator=C12_M3 Old Comment=0402 New Comment=NP
+Change Component Comment : Designator=C12_M4 Old Comment=0402 New Comment=NP
+Change Component Comment : Designator=C14_M1 Old Comment=0402 New Comment=NP
+Change Component Comment : Designator=C14_M2 Old Comment=0402 New Comment=NP
+Change Component Comment : Designator=C14_M3 Old Comment=0402 New Comment=NP
+Change Component Comment : Designator=C14_M4 Old Comment=0402 New Comment=NP
+Change Component Comment : Designator=C69 Old Comment=0402 New Comment=NP
+Change Component Comment : Designator=C70 Old Comment=0402 New Comment=NP
+Change Component Designator: OldDesignator=C12_M1 NewDesignator=R4_M1
+Change Component Designator: OldDesignator=C12_M2 NewDesignator=R4_M2
+Change Component Designator: OldDesignator=C12_M3 NewDesignator=R4_M3
+Change Component Designator: OldDesignator=C12_M4 NewDesignator=R4_M4
+Change Component Designator: OldDesignator=C14_M1 NewDesignator=R44_M1
+Change Component Designator: OldDesignator=C14_M2 NewDesignator=R44_M2
+Change Component Designator: OldDesignator=C14_M3 NewDesignator=R44_M3
+Change Component Designator: OldDesignator=C14_M4 NewDesignator=R44_M4
+Change Component Designator: OldDesignator=C69 NewDesignator=R48
+Change Component Designator: OldDesignator=C70 NewDesignator=R49
+Added Pin To Net: NetName=DECAY_M1 Pin=R4_M1-1
+Added Pin To Net: NetName=DECAY_M1 Pin=R44_M1-2
+Added Pin To Net: NetName=DECAY_M1 Pin=U7_M1-19
+Added Net: Name=DECAY_M1
+Added Pin To Net: NetName=DECAY_M2 Pin=R4_M2-1
+Added Pin To Net: NetName=DECAY_M2 Pin=R44_M2-2
+Added Pin To Net: NetName=DECAY_M2 Pin=U7_M2-19
+Added Net: Name=DECAY_M2
+Added Pin To Net: NetName=DECAY_M3 Pin=R4_M3-1
+Added Pin To Net: NetName=DECAY_M3 Pin=R44_M3-2
+Added Pin To Net: NetName=DECAY_M3 Pin=U7_M3-19
+Added Net: Name=DECAY_M3
+Added Pin To Net: NetName=DECAY_M4 Pin=R4_M4-1
+Added Pin To Net: NetName=DECAY_M4 Pin=R44_M4-2
+Added Pin To Net: NetName=DECAY_M4 Pin=U7_M4-19
+Added Net: Name=DECAY_M4
+Added Pin To Net: NetName=DECAYZ Pin=R48-1
+Added Pin To Net: NetName=DECAYZ Pin=R49-2
+Added Pin To Net: NetName=DECAYZ Pin=U5-19
+Added Net: Name=DECAYZ
+Added Member To Class: ClassName=M1 Member=Component R4_M1 (R4) NP
+Added Member To Class: ClassName=M2 Member=Component R4_M2 (R4) NP
+Added Member To Class: ClassName=M3 Member=Component R4_M3 (R4) NP
+Added Member To Class: ClassName=M4 Member=Component R4_M4 (R4) NP
+Added Member To Class: ClassName=M1 Member=Component R44_M1 (R44) NP
+Added Member To Class: ClassName=M2 Member=Component R44_M2 (R44) NP
+Added Member To Class: ClassName=M3 Member=Component R44_M3 (R44) NP
+Added Member To Class: ClassName=M4 Member=Component R44_M4 (R44) NP
+Added Member To Class: ClassName=U_MZ Member=Component R48 NP
+Added Member To Class: ClassName=U_MZ Member=Component R49 NP
