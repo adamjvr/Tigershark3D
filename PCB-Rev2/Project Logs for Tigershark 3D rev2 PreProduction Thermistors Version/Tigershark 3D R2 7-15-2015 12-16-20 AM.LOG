@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=VDDBU Pin=C64-1
+Removed Pin From Net: NetName=GND Pin=C64-2
+Removed Pin From Net: NetName=+12VCC2 Pin=C79-1
+Removed Pin From Net: NetName=VDDBU Pin=FB9-1
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C64
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=FB9
+Change Component Designator: OldDesignator=C77 NewDesignator=C55
+Change Component Designator: OldDesignator=C78 NewDesignator=C64
+Added Component: Designator=C77(C1206)
+Added Component: Designator=C78(C0603)
+Added Component: Designator=C83(C0603)
+Added Pin To Net: NetName=VDDANA Pin=C65-1
+Added Pin To Net: NetName=+12VCC3 Pin=C77-1
+Added Pin To Net: NetName=GND Pin=C77-2
+Added Pin To Net: NetName=+12VCC3 Pin=C78-1
+Added Pin To Net: NetName=GND Pin=C78-2
+Added Pin To Net: NetName=+12VCC3 Pin=C79-1
+Added Pin To Net: NetName=+12VCC2 Pin=C79-1
+Added Pin To Net: NetName=GND Pin=C79-2
+Added Pin To Net: NetName=VDDANA Pin=U3-75
+Added Member To Class: ClassName=Designator Member=Component C77 10uF 50V
+Added Member To Class: ClassName=Designator Member=Component C78 0.1uF 50V
+Added Member To Class: ClassName=Designator Member=Component C83 1nF

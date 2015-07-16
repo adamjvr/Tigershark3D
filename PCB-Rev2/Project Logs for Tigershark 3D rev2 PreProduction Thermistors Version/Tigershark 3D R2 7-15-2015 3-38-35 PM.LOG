@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=C36 NewDesignator=C?
+Added Component: Designator=C36(C0603)
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=3.3VCC Pin=C36-2
+Added Pin To Net: NetName=3.3VCC Pin=U3-57
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component C? 0603

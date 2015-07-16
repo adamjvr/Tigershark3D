@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C79-1
+Removed Pin From Net: NetName=+12VCC2 Pin=C79-2
+Removed Pin From Net: NetName=GND Pin=C82-1
+Removed Pin From Net: NetName=+12VCC1 Pin=C82-2
+Change Component DesignItemId : Designator=C79 Old DesignItemId=CL05B103JB5NNNC New DesignItemId=C0603C102K5RACTU
+Change Component DesignItemId : Designator=C82 Old DesignItemId=CL05B103JB5NNNC New DesignItemId=C0603C102K5RACTU
+Change Component Footprint: Designator=C79 Old Footprint=C0402 New Footprint=C0603
+Change Component Footprint: Designator=C82 Old Footprint=C0402 New Footprint=C0603
+Change Component Comment : Designator=C79 Old Comment=0402 New Comment=1nF
+Change Component Comment : Designator=C82 Old Comment=0402 New Comment=1nF
+Added Pin To Net: NetName=+12VCC2 Pin=C79-1
+Added Pin To Net: NetName=GND Pin=C79-2
+Added Pin To Net: NetName=+12VCC1 Pin=C82-1
+Added Pin To Net: NetName=GND Pin=C82-2

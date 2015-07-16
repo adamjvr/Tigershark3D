@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VDDBU Pin=U3-57
+Change Component Designator: OldDesignator=C79 NewDesignator=C83
+Change Component Designator: OldDesignator=C83 NewDesignator=C79
+Added Pin To Net: NetName=+12VCC3 Pin=C79-1
+Added Pin To Net: NetName=GND Pin=C79-2
+Change Net Name : Old Net Name=VDDBU New Net Name=3.3VCC
+Added Pin To Net: NetName=VDDIN Pin=U3-57
+Added Net: Name=VDDIN
+Added Member To Class: ClassName=Designator Member=Component C64 0.1uF 50V
