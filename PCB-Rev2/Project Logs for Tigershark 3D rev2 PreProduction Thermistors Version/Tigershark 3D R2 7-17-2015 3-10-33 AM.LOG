@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DIR3 Pin=U3-113
+Removed Pin From Net: NetName=MOD1E3 Pin=U3-117
+Added Pin To Net: NetName=MOD1E3 Pin=U3-113
+Added Pin To Net: NetName=DIR3 Pin=U3-117

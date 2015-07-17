@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=STEP2 Pin=U3-134
+Removed Pin From Net: NetName=MOD0E2 Pin=U3-135
+Removed Pin From Net: NetName=MOD1E2 Pin=U3-140
+Removed Pin From Net: NetName=MOD2E2 Pin=U3-141
+Added Pin To Net: NetName=MOD2E2 Pin=U3-134
+Added Pin To Net: NetName=MOD1E2 Pin=U3-135
+Added Pin To Net: NetName=MOD0E2 Pin=U3-140
+Added Pin To Net: NetName=STEP2 Pin=U3-141
+Added Member To Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=Component C17 0603

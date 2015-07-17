@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VDDOUT Pin=C37-1
+Removed Pin From Net: NetName=GND Pin=C37-2
+Removed Member From Class: ClassName=ATSAM3X8E Main Controller - TR R1.1 Member=C37

@@ -1,0 +1,4 @@
+Added Component: Designator=D1(SZMM3Z4V7T1G)
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=OVREF Pin=D1-2
+Added Member To Class: ClassName=Designator Member=Component D1 SZMM3Z4V7T1G

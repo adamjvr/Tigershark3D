@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=OVREF Pin=D1-2
+Change Component DesignItemId : Designator=D1 Old DesignItemId=D Zener New DesignItemId=MM3Z2V7T1G
+Change Component Footprint: Designator=D1 Old Footprint=SZMM3Z4V7T1G New Footprint=SOD323-R
+Added Pin To Net: NetName=GND Pin=D1-A
+Added Pin To Net: NetName=OVREF Pin=D1-C
+Added Member To Class: ClassName=TR1 Member=Component D5_TR1 (D5) 1N4148WT
