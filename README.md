@@ -1,8 +1,7 @@
 Tigershark3D
 ============
 
-NOTE: Project has been forked into the AMBIT/Archim project by Ultimachine, its the commercial implementation of the Tigershark 3D printer controller prototype. Learn more here: https://github.com/ultimachine/AMBIT
-
+NOTE: Project has been forked into the Archim project by Ultimachine, its the commercial implementation of the Tigershark 3D printer controller prototype. Learn more here: https://github.com/ultimachine/Archim
 
 A TinyG Powered 3D printer controller for RepRap, based on the RAMBo by Ultimachine, the Arduino DUE, and the TinyG from Synthetos.com
 
